@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: epic-showcase-microservice
+  cloud:
+    consul:
+      host: ${epic.consul.host:127.0.0.1}
