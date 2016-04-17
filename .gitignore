@@ -5,7 +5,7 @@ out/
 bower_components/
 node_modules/
 
-idea/
+.idea/
 *.iml
 .project
 .settings/
